@@ -15,8 +15,17 @@ A short demo repo on how to use Google Gmail's python API.
 
 ## Usage
 
-## Example: Check your recent e-mails:
+### Example: Check your recent e-mails:
 
 ~~~~
 ./gmail_api_test_check_recent_mail.py
 ~~~~
+
+
+## References
+
+Quickstart reference:
+- https://developers.google.com/gmail/api/quickstart/python
+
+Full API reference:
+- https://developers.google.com/gmail/api/v1/reference/
