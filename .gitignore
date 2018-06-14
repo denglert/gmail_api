@@ -1,0 +1,4 @@
+credentials/
+credentials*
+*.pyc
+dev_test/
